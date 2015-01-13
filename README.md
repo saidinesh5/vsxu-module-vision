@@ -5,13 +5,16 @@ Sample Module For VSXu.
 
 All it does is take 2 float params for input and outputs a result = sum(inputs)
 
-Install:
+Installation:
 ---
 
 
 Install the dependencies (Also make sure you already have a copy of libvsxu-dev installed):
+
     sudo apt-get install libopencv-dev libcvaux-dev libhighgui-dev libcv-dev
 
+Now Compile and install the module:
+    
     git clone git://github.com/vovoid/vsxu-module.git
     cd vsxu-module-vision
     mkdir build

@@ -1,0 +1,1 @@
+/home/dinesh/kde/inst/master/lib/vsxu/plugins/vsxu-module-vision.so

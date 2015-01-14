@@ -1,9 +1,9 @@
-vsxu sample module
-==================
+vsxu computer vision
+====================
 
-Sample Module For VSXu.
+Computer vision mdoule For VSXu.
 
-All it does is take 2 float params for input and outputs a result = sum(inputs)
+Currently it just lets you get input from camera/video and also implements a basic colored blob tracker
 
 Installation:
 ---
